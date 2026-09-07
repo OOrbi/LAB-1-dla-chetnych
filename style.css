@@ -1,0 +1,9 @@
+body {
+  background-color: #d38f28;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  margin: 35px;
+}
